@@ -1,0 +1,21 @@
+img {
+    width: 400px;
+    height: 4
+}
+div{
+    text-align: center;
+}
+mark {
+    color: rgb(225, 225, 225, 1);
+    background-color:blueviolet;
+}
+.sk123 {
+    font-size: 20px;
+    font-weight: bold;
+}
+h2{
+    font-weight: bold;
+}
+ul > li{
+    list-style-type: disc;
+}
